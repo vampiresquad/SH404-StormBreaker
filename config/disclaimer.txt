@@ -1,0 +1,7 @@
+[!] WARNING:
+
+This tool is for educational purposes and legal penetration testing only.
+Unauthorized scanning, DDoS, or injection attacks are illegal.
+
+Use responsibly.
+Developer: Muhammad Shourov (Vampire)
